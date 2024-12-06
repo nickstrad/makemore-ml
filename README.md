@@ -10,3 +10,9 @@ conda activate ENV_NAME
 - conda
 - pytorch(torch)
 - matplotlib
+
+```
+brew install jupyterlab
+conda install pytorch::pytorch -c pytorch
+conda install matplotlib
+```
